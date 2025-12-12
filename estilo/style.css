@@ -10,5 +10,5 @@ main{
     width:500px;
     margin:auto;
     padding:10px;
-    box-shadow 3px 2px 5px pink;
+    box-shadow: 3px 2px 5px pink;
 }
